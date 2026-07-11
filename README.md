@@ -1,2 +1,4 @@
-# VRChatModule
-Shader Core module providing VRChat-specific variables.
+VRChatModule
+====
+
+[Download](https://github.com/lilxyzw/VRChatModule/releases)
