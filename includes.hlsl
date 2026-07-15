@@ -1,3 +1,4 @@
+#define VRCHAT_MODULE
 #include "Packages/com.vrchat.base/ShaderLibrary/VRCTime.cginc"
 
 float _VRChatCameraMode;

@@ -1,0 +1,14 @@
+{
+  "name": "jp.lilxyzw.vrchatmodule",
+  "version": "1.1.0",
+  "displayName": "VRChatModule",
+  "description": "",
+  "hideInEditor": false,
+  "repo" : "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
+  "vpmDependencies": {
+    "com.vrchat.base": "^3.10.4"
+  },
+  "legacyFolders" : {
+    "Assets\\Shaders\\Modules\\VRChatModule" : "056404c4a43ca1d408488711d76fc107"
+  }
+}
