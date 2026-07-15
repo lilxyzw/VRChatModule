@@ -1,4 +1,5 @@
 VRChatModule
 ====
 
-[Download](https://github.com/lilxyzw/VRChatModule/releases)
+VPMで導入できます。
+https://github.com/lilxyzw/vpm-repos-shadercore-modules
